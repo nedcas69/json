@@ -1,0 +1,11 @@
+{
+    "string": "Строка",
+    "number": 42,
+    "boolean": true,
+    "array": ["Я", "массив", "строк"],
+    "json": {
+      "key1": "value1",
+      "key2": "value2"
+    }
+  }
+  
